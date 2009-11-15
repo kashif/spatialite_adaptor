@@ -1,6 +1,6 @@
 = spatialite_adaptor
 
-Description goes here.
+An Active Record plugin for Spatialite, which is a SQLite extension to support spatial data.
 
 == Note on Patches/Pull Requests
  
@@ -15,4 +15,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2009 kashif. See LICENSE for details.
+Copyright (c) 2009 Kashif Rasul. See LICENSE for details.
